@@ -1,0 +1,148 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  list-style: none;
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+}
+
+.logo .logo-title{
+ text-decoration: none;
+ font-size: 32px;
+ color: rgba(255, 0, 0, 0.85);
+ font-weight: 700;
+ line-height: 1;
+ margin: 0;
+ padding: 0;
+ font-family: 'Roboto', sans-serif;
+}
+.logo .logo-title:hover{
+ border-bottom:1px solid #fff ;
+ transition: 0.4s ease-in-out;
+ color: #fff;
+ text-decoration: none;
+ font-size: 32px;
+ color: rgba(255, 0, 0, 0.85);
+ font-weight: 700;
+ line-height: 1;
+ margin: 0;
+ padding: 0;
+}
+
+.logo .logo-title span{
+  font-size: 36px;
+  font-weight: 900;
+  line-height: 1;
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.sections-link{
+  color: red;
+  text-decoration: none;
+  font-size: 18px;
+  margin: 0 10px;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  line-height: 1;
+  transition: 0.4s ease-in-out;
+  display: inline-block;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding-bottom: 1px;
+  margin-bottom: 1px;
+}
+
+.sections-link:hover{
+  border-bottom: 2px solid #fff;
+  transition: 0.4s ease-in-out;
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+  margin: 0 12px;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  line-height: 1;
+  transition: 0.4s ease-in-out;
+  display: inline-block;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding-bottom: 1px;
+  margin-bottom: 1px;
+}
+
+section{
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-position: center ;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  padding: 60px 0;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  background-image: url(imgs/diego-ph-5LOhydOtTKU-unsplash.jpg);
+  
+}
+
+.contact{
+  background-color: #ffffff00;
+  width: 100%;
+  height:10vh ;
+  border-radius: 5px;
+  text-align: center;
+  padding: 100px;
+  
+}
+
+
+.fa-twitter{
+  color:#1DA1F2;
+  font-size: 100px;
+  padding: 0;
+  font-weight: 900;
+}
+
+.fa-twitter:hover{
+  color:#4db0ee;
+  font-size: 105px;
+  padding: 0;
+  font-weight: 900;
+  transition: 0.4s ease-in-out;
+
+}
+
+.fa-youtube{
+  color:#FF0000;
+  font-size: 100px;
+  padding: 0;
+  font-weight: 900;
+}
+
+.fa-youtube:hover{
+  color:#e71c1c;
+  font-size: 105px;
+  padding: 0;
+  font-weight: 900;
+  transition: 0.4s ease-in-out;
+}
+
+/* .fa-discord{
+  color:#fff;
+  font-size: 30px;
+  padding: 0;
+  font-weight: 900;
+} */
+
